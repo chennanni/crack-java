@@ -1,4 +1,4 @@
-package com.example.lock;
+package com.example.crackjava.lock;
 
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 

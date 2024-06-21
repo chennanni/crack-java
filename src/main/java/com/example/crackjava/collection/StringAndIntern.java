@@ -1,4 +1,4 @@
-package com.example.collection;
+package com.example.crackjava.collection;
 
 public class StringAndIntern {
     public static void main(String[] args) {
